@@ -1,0 +1,19 @@
+{
+  "name": "dev-camper",
+  "version": "1.0.0",
+  "description": "\tBackend API to manage bootcamps, courses, reviews, users and authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinenoise/dev-camper.git"
+  },
+  "author": "Kyle Devine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devinenoise/dev-camper/issues"
+  },
+  "homepage": "https://github.com/devinenoise/dev-camper#readme"
+}
